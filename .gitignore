@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Optional (if you don't want to commit lockfile)
+package-lock.json
